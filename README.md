@@ -17,4 +17,4 @@ This project contains all my basic to advanced HTML practice codes.
 You can download or clone the repository:
 
 ```bash
-git clone https://github.com/savitajainshetty/HTML-practice-codes
+git clone https://github.com/savitajainshetty/HTML-practice-codes.git
